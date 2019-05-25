@@ -1,5 +1,7 @@
 # Lucky-Bot
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Lucky-Bot** is betting bot for [luckygames.io](https://luckygames.io/) website.
 
 ## Content
