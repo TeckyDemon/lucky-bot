@@ -11,6 +11,8 @@ function get_id(){return document.getElementsByClassName('tbody')[0].firstElemen
 function reset_bet_amount(){document.getElementById('betAmount').value=(CONFIG_INTELLIGENT_BET?document.getElementById('balance').value/300000:CONFIG_DEFAULT_BET)}
 function double_bet_amount(){document.getElementById('multiplyBet').click()}
 
+if(!!document.getElementsByClassName('icon animation on').length){document.getElementById('animation').click()}
+document.getElementsByClassName('menu')[0].children[0].children[0].click()
 reset_bet_amount()
 while(true){
 	last=get_id()
