@@ -26,6 +26,7 @@
 - [Content](#content)
 - [Usage](#usage)
 - [Config](#config)
+- [Warning](#warning)
 - [Disclaimer](#disclaimer)
 - [Authors](#authors)
 - [Contact](#contact)
@@ -43,6 +44,10 @@
 | CONFIG_SPEED           | Bot's betting speed - (1000/CONFIG_SPEED) bets/sec                    | 1 (1 bet per second)   |
 | CONFIG_DEFAULT_BET     | Default bet value                                                     | 0.00000001 (1 satoshi) |
 | CONFIG_INTELLIGENT_BET | Intelligent bet mode (automatic default bet, 300000 satoshi required) | false                  |
+
+## Warning
+
+Website [luckygames.io](https://luckygames.io/) was accused to be scam and manipulating their games: https://cryptogambling.org/articles/luckygames-io-the-monarch-of-manipulation/ so be careful with big deposits.
 
 ## Disclaimer
 
