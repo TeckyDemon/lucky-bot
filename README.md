@@ -24,6 +24,7 @@
 ## Content
 
 - [Content](#content)
+- [Features](#features)
 - [Usage](#usage)
 - [Config](#config)
 - [Warning](#warning)
@@ -31,6 +32,12 @@
 - [Authors](#authors)
 - [Contact](#contact)
 - [License](#license)
+
+## Features
+
+* Configurable speed.
+* Configurable default bet value.
+* Intelligent bet function.
 
 ## Usage
 
